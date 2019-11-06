@@ -1,7 +1,7 @@
 
-		Cantidad total de pedidos: 1
-		Cantidad de Muzza: 0
-		Cantidad de Jamón y morrón: 0
-		Cantidad de Calabresa: 1
-		Cantidad de Napolitana: 0
+		Cantidad total de pedidos: 4
+		Cantidad de Muzza: 1
+		Cantidad de Jamón y morrón: 2
+		Cantidad de Calabresa: 0
+		Cantidad de Napolitana: 1
 	
