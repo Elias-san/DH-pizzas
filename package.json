@@ -1,0 +1,23 @@
+{
+  "name": "DH-Pizzas-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elias-san/DH-pizzas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elias-san/DH-pizzas/issues"
+  },
+  "homepage": "https://github.com/Elias-san/DH-pizzas#readme",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}

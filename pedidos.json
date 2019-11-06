@@ -1,0 +1,23 @@
+[
+ {
+  "numeroPedido": 1,
+  "paraDelivery": true,
+  "direccion": "fasdf",
+  "nombreCliente": "fasdf",
+  "telefonoCliente": "42234",
+  "gustoPizza": "Calabresa",
+  "tamanioPizza": "Grande",
+  "conBebida": true,
+  "gustoBebida": "Sprite",
+  "clienteHabitual": true,
+  "empanadas": [
+   "Carne picante",
+   "Carne cortada a cuchillo",
+   "Jamon y muzzarela"
+  ],
+  "fecha": "2019-11-6",
+  "hora": "14:52:36",
+  "totalProductos": 750,
+  "descuento": 8
+ }
+]
